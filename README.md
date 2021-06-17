@@ -10,7 +10,7 @@ parser written in ECMAScript (also popularly known as
 Esprima is created and maintained by [Ariya Hidayat](https://twitter.com/ariyahidayat),
 with the help of [many contributors](https://github.com/jquery/esprima/contributors).
 
-### Features
+### Features-
 
 - Full support for ECMAScript 2017 ([ECMA-262 8th Edition](http://www.ecma-international.org/publications/standards/Ecma-262.htm))
 - Sensible [syntax tree format](https://github.com/estree/estree/blob/master/es5.md) as standardized by [ESTree project](https://github.com/estree/estree)
